@@ -1,11 +1,10 @@
 [tool.poetry]
-name = "hannover_assessment"
-description = "Technical Assessment for Hannover RE Data Scientist"
+name = "prudential_life_insurance"
+description = "Prudential Life Insurance Dataset Exploration"
 version = "0.1.0"
 authors = [
     "Cillian Whelan <cillianwhelan@live.ie>"
 ]
-
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
